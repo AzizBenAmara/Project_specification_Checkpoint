@@ -1,0 +1,125 @@
+
+body {
+    font-family: roboto;
+}
+/*header*/
+.banniere1 {
+    background-color: black;
+    height: 100px;
+    color: yellow;
+    display: flex;
+}
+.fab {
+    padding: 5px;
+    font-size: 25px;
+    text-align: center;
+    text-decoration: none;
+    color: yellow;
+    margin-top: 45px;
+    margin-left: 105px;
+  }
+.titre {
+    margin-left: 25px;
+    width: 595px;
+}
+/*footer total*/
+.total {
+    width: 350px;
+    margin-left: 25px;
+}
+.total_commander {
+    margin-left: 5px;
+}
+/*article 123456*/
+.ligne1 {
+    display: flex;
+}
+.article {
+    width: 465px;
+    padding: 10px;
+    margin: 20px;
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    border: 3px solid black;
+}
+.texte_article {
+    padding-left: 15px;
+}
+p {
+    margin-top: -20px;
+}
+h2 {
+    margin-top: 5px;
+}
+.grand-prix {
+    height: 20px;
+}
+.total_article {
+    margin-top: 6px;
+    margin-left: 50px;
+    width: 10px;
+    font-style: bold ;
+}
+.dt {
+    font-size: 13px;
+}
+.dtp {
+    font-size: 9px;
+}
+/*boutons + et -*/
+.plus_moins {
+    display: flex;
+}
+.moins {
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    cursor: pointer;
+    padding: 5px;
+    width: 40px;
+    height: 40px;
+}
+.plus {
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    cursor: pointer;
+    padding: 5px;
+    width: 40px;
+    height: 40px;
+    margin-left: 57px;
+}
+/*bouton ajouter au panier*/
+.button_achat {
+    background-color: #000000;
+    border: 1px solid #cccccc;
+    color: #ffffff;
+
+    text-align: center;
+    font-size: 17px;
+    width: 200px;
+    height: 50px;
+    cursor: pointer;
+    margin-top: -6px;
+}
+.button_achat2 {
+    background-color: yellow;
+    border: 2px solid #cccccc;
+    color: black;
+
+    text-align: center;
+    font-size: 20px;
+    width: 200px;
+    height: 50px;
+    cursor: pointer;
+    margin: 25px;
+    margin-left: 460px;
+}
+/*banniere footer*/
+.banniere2 {
+    display: flex;
+    background-color: black;
+    color: yellow;
+    height: 100px;
+}
+
